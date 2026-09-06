@@ -1,2 +1,4 @@
-# geodev-lab-project
-I would build an interactive flood-vulnerability map of Abeokuta South LGA showing waterways and areas at different levels of proximity to them
+# My GeoDev Lab Africa Project
+How are waterways distributed across Abeokuta South LGA, and which areas are most vulnerable to flooding due to their proximity to these waterways?
+Built over twelve months with GeoDev Lab Africa, Cohort One
+See project-brief.md for the full brief
