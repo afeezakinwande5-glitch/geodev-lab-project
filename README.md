@@ -12,4 +12,4 @@ See project-brief.md for the full brief
 - Week 5: Set up Python, VS Code and the terminal. Created and successfully ran `hello.py`.
 - Week 6: set up the project with uv and added pandas. check.py prints the pandas version.
 - Week 7: analyse.py reads wards.csv, converts each area and classifies each ward.
-
+- Week 8: Created inspect_data.py to inspect my Month 1 dataset. The script reads CSV data using DictReader, handles missing values and summarises two numerical columns using a reusable function that returns statistical results.
