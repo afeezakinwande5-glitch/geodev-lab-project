@@ -28,3 +28,6 @@ See project-brief.md for the full brief
 ### Month 2 Reflection
 
 One idea that became clearer to me during this week was how functions make Python scripts more organised and reusable. I am still working on understanding how different functions interact when building a larger programme. The capstone helped me see how Python can be used to inspect and summarise geographical data more efficiently. Overall, this week improved my understanding of data processing and code organisation.
+
+## Month 3: geospatial Python and automation at the bottom of your main README, and under it: 
+- Week 10: GeoPandas. Loaded, checked, joined and mapped my Abeokuta_bdry.gpkg in code.
