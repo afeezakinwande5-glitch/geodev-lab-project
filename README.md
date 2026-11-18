@@ -31,3 +31,4 @@ One idea that became clearer to me during this week was how functions make Pytho
 
 ## Month 3: geospatial Python and automation at the bottom of your main README, and under it: 
 - Week 10: GeoPandas. Loaded, checked, joined and mapped my Abeokuta_bdry.gpkg in code.
+- Week 11: Projected all spatial layers to EPSG:32631 (WGS 84 / UTM Zone 31N) for accurate area and distance measurements.
